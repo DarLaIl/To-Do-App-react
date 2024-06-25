@@ -1,5 +1,7 @@
 <h1>Проект приложения "Список дел"</h1>
 
+[Демо проекта](https://todo-app-react-darlail.netlify.app/)
+
 <h2>Технологии: HTML5/Css3, React</h2>
 
  <h3>Функциональность:</h3>
